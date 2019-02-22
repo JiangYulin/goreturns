@@ -33,3 +33,5 @@ performing its own processing.
 
 It acts the same as gofmt (same flags, etc) but in addition to code
 formatting, also fixes returns.
+
+forked
